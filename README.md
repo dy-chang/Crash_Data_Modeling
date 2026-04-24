@@ -27,6 +27,7 @@
 > 💡 Open any `.html` file locally in a browser for full hover/zoom interactivity.
 
 ---
+```
 
 ## 🗂️ Repository Structure
 chicago-crash-analytics/
