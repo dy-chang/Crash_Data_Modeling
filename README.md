@@ -43,11 +43,6 @@ chicago-crash-analytics/
 ├── 05_roc_curves.html
 └── 06_feature_importance.html
 
-> `chicago_crashes_raw.csv` is gitignored (large file).
-> It is auto-generated on every run via the Socrata API.
-
----
-
 ## 🚀 Quickstart
 
 ```bash
